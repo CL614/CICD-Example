@@ -1,7 +1,6 @@
-def add(a,b):
-  c= a+b
-  return c
+def add(a, b):
+    return a + b
 
-def multiply(a,b):
-  c = a*b
-  return c
+
+def multiply(a, b):
+    return a * b
